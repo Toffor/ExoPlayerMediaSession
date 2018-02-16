@@ -25,3 +25,17 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext{
+    min_sdk_version = 17
+    target_sdk_version = 27
+    compile_sdk_version = 27
+    build_tools_version = '27.0.3'
+    support_version = '27.0.2'
+    constraint_layout_version = '1.0.2'
+    exo_player_version = '2.6.0'
+    junit_version = '4.12'
+    test_runner_version = '1.0.1'
+    espresso_version = '3.0.1'
+
+}
