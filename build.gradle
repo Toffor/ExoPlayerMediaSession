@@ -31,9 +31,9 @@ ext{
     target_sdk_version = 27
     compile_sdk_version = 27
     build_tools_version = '27.0.3'
-    support_version = '27.0.2'
+    support_version = '27.1.0'
     constraint_layout_version = '1.0.2'
-    exo_player_version = '2.6.0'
+    exo_player_version = '2.7.1'
     junit_version = '4.12'
     test_runner_version = '1.0.1'
     espresso_version = '3.0.1'
